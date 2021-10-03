@@ -1,2 +1,2 @@
 # Try-Windows-11
-Made by using HTML,CSS.
+Clone of windows 11 made by using HTML,CSS.
